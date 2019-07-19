@@ -1,0 +1,1362 @@
+\t (00:06:13) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:06:13)     Journal start - Wed Jul 17 11:55:45 2019
+\t (00:06:13)         Host=USER-PC User=user Pid=6672 CPUs=4
+\t (00:06:13) CmdLine= allegro.exe -p .
+\t (00:06:13) 
+\d (00:06:13) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2.brd
+\i (00:06:13) generaledit 
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 1665.2 702.3
+\i (00:06:14) trapsize 167
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 1651.8 702.3
+\i (00:06:14) trapsize 334
+\i (00:06:15) zoom in 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom in 2397.7 220.8
+\i (00:06:15) trapsize 167
+\i (00:06:16) roam start
+\i (00:06:16) roam y -32
+\i (00:06:16) roam y -32
+\i (00:06:16) roam y -32
+\i (00:06:17) roam y -32
+\i (00:06:17) roam y 16
+\i (00:06:17) roam y 32
+\i (00:06:17) roam y 16
+\i (00:06:17) roam y -16
+\i (00:06:17) roam y -16
+\i (00:06:17) roam y -16
+\i (00:06:17) roam y -16
+\i (00:06:18) roam end
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 896.0 454.9
+\i (00:06:18) trapsize 84
+\i (00:06:19) roam start
+\i (00:06:19) roam x 32
+\i (00:06:19) roam y -48
+\i (00:06:19) roam x 80
+\i (00:06:19) roam y -32
+\i (00:06:19) roam x 64
+\i (00:06:19) roam y -16
+\i (00:06:19) roam x 48
+\i (00:06:20) roam end
+\i (00:20:41) add connect 
+\w (00:20:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:20:42) Pick first element.
+\i (00:20:45) done 
+\i (00:20:45) generaledit 
+\i (00:20:46) add connect 
+\t (00:20:46) Pick first element.
+\i (00:20:55) cns show 
+\i (00:21:13) cmgr 
+\i (00:21:17) setwindow cmgr
+\i (00:21:17) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:21:19) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:21:22) cm collapse ( row ( Design "demoa2" ) )
+\i (00:21:23) cm expand ( row ( Design "demoa2" ) )
+\i (00:21:28) cm newView ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:21:30) cm exit
+\i (00:27:20) setwindow pcb
+\i (00:27:20) pick grid -416.7 996.6
+\t (00:27:20) last pick:  -425.0 1000.0
+\i (00:27:33) add connect 
+\t (00:27:34) Pick first element.
+\i (00:27:50) pick grid 203.6 877.9
+\t (00:27:50) last pick:  200.0 875.0
+\t (00:27:50) last pick:  200.0 900.0
+\t (00:27:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:27:50) last pick:  200.0 900.0
+\i (00:27:51) pick grid 196.9 809.3
+\t (00:27:51) last pick:  200.0 800.0
+\t (00:27:51) No DRC errors detected.
+\i (00:27:53) pick grid 260.5 739.1
+\t (00:27:53) last pick:  250.0 750.0
+\t (00:27:53) No DRC errors detected.
+\i (00:27:56) pick grid 255.5 488.3
+\t (00:27:56) last pick:  250.0 500.0
+\t (00:27:56) No DRC errors detected.
+\i (00:27:56) mouse_pos 237.1 436.4
+\i (00:27:57) mouse_pos 212.0 464.8
+\i (00:27:57) mouse_pos 212.0 436.4
+\i (00:27:59) pick grid 203.6 411.3
+\t (00:27:59) last pick:  200.0 400.0
+\t (00:27:59) No DRC errors detected.
+\t (00:27:59) Pick first element.
+\i (00:28:05) prepopup -212.7 556.8
+\i (00:28:06) done 
+\i (00:28:06) generaledit 
+\i (00:28:08) pick grid 252.1 479.9
+\t (00:28:08) last pick:  250.0 475.0
+\i (00:28:10) delete 
+\i (00:28:10) generaledit 
+\i (00:28:11) pick grid -301.4 797.6
+\t (00:28:11) last pick:  -300.0 800.0
+\i (00:28:14) add connect 
+\t (00:28:14) Pick first element.
+\i (00:28:15) pick grid 248.8 754.1
+\t (00:28:15) last pick:  250.0 750.0
+\t (00:28:15) Target Odd-angle Line Segment is defined on TOP.
+\t (00:28:16) last pick:  250.0 750.0
+\i (00:28:20) pick grid 257.1 510.0
+\t (00:28:20) last pick:  250.0 500.0
+\t (00:28:20) No DRC errors detected.
+\i (00:28:25) pick grid 210.3 473.2
+\t (00:28:25) last pick:  200.0 475.0
+\t (00:28:25) No DRC errors detected.
+\i (00:28:25) mouse_pos 191.9 436.4
+\i (00:28:26) pick grid 191.9 411.3
+\t (00:28:26) last pick:  200.0 400.0
+\t (00:28:26) No DRC errors detected.
+\t (00:28:26) Pick first element.
+\i (00:28:26) Esc 
+\t (00:28:26) Pick first element.
+\i (00:28:35) undo 
+\i (00:28:35) trapsize 84
+\i (00:28:35) generaledit 
+\i (00:28:35) undo 
+\i (00:28:35) trapsize 84
+\i (00:28:35) generaledit 
+\i (00:28:35) undo 
+\i (00:28:35) trapsize 84
+\i (00:28:35) generaledit 
+\i (00:28:35) undo 
+\i (00:28:35) trapsize 84
+\i (00:28:36) generaledit 
+\i (00:28:37) pick grid -237.8 948.1
+\t (00:28:37) last pick:  -250.0 950.0
+\i (00:30:58) add connect 
+\t (00:30:58) Pick first element.
+\i (00:31:00) pick grid 88.2 899.6
+\t (00:31:00) last pick:  100.0 900.0
+\t (00:31:00) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:31:00) last pick:  100.0 900.0
+\i (00:31:05) pick grid 161.8 821.0
+\t (00:31:05) last pick:  150.0 825.0
+\t (00:31:05) No DRC errors detected.
+\i (00:31:06) mouse_pos 140.1 436.4
+\i (00:31:06) mouse_pos 133.4 331.1
+\i (00:31:07) pick grid 148.4 162.2
+\t (00:31:07) last pick:  150.0 150.0
+\t (00:31:07) No DRC errors detected.
+\i (00:31:08) pick grid 111.7 112.0
+\t (00:31:08) last pick:  100.0 100.0
+\t (00:31:08) No DRC errors detected.
+\i (00:31:09) mouse_pos 141.8 202.3
+\i (00:31:09) mouse_pos 165.2 267.5
+\i (00:31:09) mouse_pos 161.8 359.5
+\i (00:31:09) mouse_pos 138.4 239.1
+\i (00:31:10) prepopup 171.9 229.1
+\i (00:31:11) oops 
+\t (00:31:11) last pick:  150.0 150.0
+\i (00:31:14) prepopup 171.9 222.4
+\i (00:31:14) done 
+\i (00:31:15) generaledit 
+\i (00:31:15) pick grid -155.9 160.5
+\t (00:31:15) last pick:  -150.0 150.0
+\i (00:31:18) undo 
+\i (00:31:18) trapsize 84
+\i (00:31:18) generaledit 
+\i (00:31:19) pick grid -276.3 250.8
+\t (00:31:19) last pick:  -275.0 250.0
+\i (00:31:26) slide 
+\t (00:31:26) Pick element to slide.
+\i (00:31:27) pick grid 89.9 904.6
+\t (00:31:27) last pick:  100.0 900.0
+\t (00:31:27) Pick element to slide.
+\i (00:31:29) pick grid 98.3 899.6
+\t (00:31:29) last pick:  100.0 900.0
+\t (00:31:29) Pick element to slide.
+\i (00:31:30) slide 
+\t (00:31:30) Pick element to slide.
+\i (00:31:31) pick grid 96.6 899.6
+\t (00:31:31) last pick:  100.0 900.0
+\t (00:31:31) Pick element to slide.
+\i (00:31:32) drag_start grid 115.0 891.2
+\i (00:31:33) drag_stop 81.6 904.6
+\t (00:31:33) Pick element to slide.
+\i (00:31:34) slide 
+\t (00:31:34) Pick element to slide.
+\i (00:31:35) drag_start grid 111.7 896.3
+\i (00:31:36) drag_stop 93.3 881.2
+\t (00:31:36) Pick element to slide.
+\i (00:31:37) drag_start grid 163.5 790.9
+\i (00:31:37) drag_stop 163.5 700.6
+\t (00:31:37) Pick element to slide.
+\i (00:31:37) drag_start grid 156.8 734.1
+\i (00:31:37) drag_stop 171.9 797.6
+\t (00:31:37) Pick element to slide.
+\i (00:31:38) drag_start grid -125.8 795.9
+\i (00:31:38) drag_stop -119.1 712.3
+\t (00:31:38) Pick element to slide.
+\i (00:31:39) pick grid -122.4 725.7
+\t (00:31:39) last pick:  -125.0 725.0
+\t (00:31:39) Pick element to slide.
+\i (00:31:40) undo 
+\i (00:31:40) trapsize 84
+\i (00:31:40) generaledit 
+\i (00:31:41) add connect 
+\t (00:31:41) Pick first element.
+\i (00:31:41) pick grid 120.0 886.2
+\t (00:31:41) last pick:  125.0 875.0
+\t (00:31:41) last pick:  100.0 900.0
+\t (00:31:41) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:31:41) last pick:  100.0 900.0
+\i (00:31:46) pick grid 155.1 812.7
+\t (00:31:46) last pick:  150.0 825.0
+\t (00:31:46) No DRC errors detected.
+\i (00:31:48) mouse_pos 136.7 436.4
+\i (00:31:48) mouse_pos 151.8 411.3
+\i (00:31:50) pick grid 138.4 142.1
+\t (00:31:50) last pick:  150.0 150.0
+\t (00:31:50) No DRC errors detected.
+\i (00:31:51) pick grid 110.0 112.0
+\t (00:31:51) last pick:  100.0 100.0
+\t (00:31:51) No DRC errors detected.
+\i (00:31:52) prepopup 93.3 100.3
+\i (00:31:53) done 
+\i (00:31:53) generaledit 
+\i (00:31:54) pick grid -296.3 204.0
+\t (00:31:54) last pick:  -300.0 200.0
+\i (00:32:29) undo 
+\i (00:32:29) trapsize 84
+\i (00:32:29) generaledit 
+\i (00:32:45) add connect 
+\t (00:32:45) Pick first element.
+\i (00:32:49) pick grid 106.6 881.2
+\t (00:32:49) last pick:  100.0 875.0
+\t (00:32:49) last pick:  100.0 900.0
+\t (00:32:49) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:32:49) last pick:  100.0 900.0
+\i (00:32:51) pick grid 110.0 811.0
+\t (00:32:51) last pick:  100.0 800.0
+\t (00:32:51) No DRC errors detected.
+\i (00:32:53) pick grid 160.2 760.8
+\t (00:32:53) last pick:  150.0 750.0
+\t (00:32:53) No DRC errors detected.
+\i (00:32:53) prepopup 153.5 749.1
+\i (00:32:59) toggle 
+\i (00:33:06) mouse_pos 86.6 785.9
+\i (00:33:06) mouse_pos 81.6 789.2
+\i (00:33:08) mouse_pos 110.0 832.7
+\i (00:33:09) mouse_pos 83.2 831.0
+\i (00:33:10) mouse_pos 110.0 794.3
+\i (00:33:10) prepopup 101.6 806.0
+\i (00:33:11) done 
+\i (00:33:11) generaledit 
+\i (00:33:18) delete 
+\i (00:33:19) pick grid 111.7 784.2
+\t (00:33:19) last pick:  100.0 775.0
+\t (00:33:19) Connect Line "Vcc, Etch/Top"
+\i (00:33:20) pick grid -226.1 857.8
+\t (00:33:20) last pick:  -225.0 850.0
+\i (00:33:23) slide 
+\t (00:33:23) Pick element to slide.
+\i (00:33:25) pick grid 91.6 896.3
+\t (00:33:25) last pick:  100.0 900.0
+\t (00:33:25) Pick element to slide.
+\i (00:33:27) add connect 
+\t (00:33:27) Pick first element.
+\i (00:33:28) pick grid 125.0 881.2
+\t (00:33:28) last pick:  125.0 875.0
+\t (00:33:28) last pick:  100.0 900.0
+\t (00:33:28) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:33:28) last pick:  100.0 900.0
+\i (00:33:28) prepopup 28.1 854.5
+\i (00:33:31) toggle 
+\i (00:33:44) mouse_pos 89.9 359.5
+\i (00:33:46) pick grid 103.3 387.9
+\t (00:33:46) last pick:  100.0 400.0
+\t (00:33:46) No DRC errors detected.
+\t (00:33:46) Pick first element.
+\i (00:33:47) prepopup 103.3 389.6
+\i (00:33:48) oops 
+\t (00:33:48) last pick:  100.0 900.0
+\i (00:33:48) mouse_pos 103.3 389.6
+\i (00:33:50) mouse_pos 84.9 451.5
+\i (00:33:51) mouse_pos 94.9 436.4
+\i (00:33:52) pick grid 108.3 387.9
+\t (00:33:52) last pick:  100.0 400.0
+\t (00:33:52) No DRC errors detected.
+\t (00:33:52) Pick first element.
+\i (00:33:53) prepopup 108.3 396.3
+\i (00:33:53) done 
+\i (00:33:53) generaledit 
+\i (00:33:57) pick grid 54.8 859.5
+\t (00:33:57) last pick:  50.0 850.0
+\i (00:34:10) slide 
+\t (00:34:10) Waiting for the destination pick.
+\i (00:34:23) pick grid 53.1 785.9
+\t (00:34:23) last pick:  50.0 775.0
+\t (00:34:23) No DRC errors detected.
+\i (00:34:23) generaledit 
+\i (00:34:26) prepopup -155.9 804.3
+\i (00:34:27) pick grid -130.8 906.3
+\t (00:34:27) last pick:  -125.0 900.0
+\i (00:34:44) grid toggle 
+\i (00:34:44) generaledit 
+\i (00:34:49) add connect 
+\t (00:34:49) Pick first element.
+\i (00:34:50) pick grid 202.0 896.3
+\t (00:34:50) last pick:  200.0 900.0
+\t (00:34:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:34:50) last pick:  200.0 900.0
+\i (00:34:50) prepopup 250.4 831.0
+\i (00:34:52) toggle 
+\i (00:34:54) mouse_pos 232.1 434.7
+\i (00:34:55) mouse_pos 218.7 449.8
+\i (00:35:05) pick grid 243.8 662.2
+\t (00:35:05) last pick:  250.0 650.0
+\t (00:35:05) No DRC errors detected.
+\i (00:35:06) mouse_pos 222.0 436.4
+\i (00:35:08) pick grid 212.0 381.2
+\t (00:35:08) last pick:  200.0 375.0
+\t (00:35:08) No DRC errors detected.
+\t (00:35:08) Pick first element.
+\i (00:35:10) prepopup -162.6 785.9
+\i (00:35:11) done 
+\i (00:35:11) generaledit 
+\i (00:35:12) pick grid 242.1 784.2
+\t (00:35:12) last pick:  250.0 775.0
+\i (00:35:14) slide 
+\t (00:35:14) Waiting for the destination pick.
+\t (00:35:14) New cline would result in DRC error(s); retaining old cline.
+\i (00:35:19) pick grid 212.0 802.6
+\t (00:35:19) last pick:  200.0 800.0
+\t (00:35:19) No DRC errors detected.
+\i (00:35:19) generaledit 
+\i (00:35:21) drag_start grid 198.6 739.1
+\i (00:35:21) slide 
+\t (00:35:21) Waiting for the destination pick.
+\i (00:35:21) drag_stop grid 248.8 759.1
+\t (00:35:21) No DRC errors detected.
+\i (00:35:21) generaledit 
+\i (00:35:26) pick grid 230.4 857.8
+\t (00:35:26) last pick:  225.0 850.0
+\i (00:35:30) pick grid 247.1 739.1
+\t (00:35:30) last pick:  250.0 750.0
+\i (00:35:31) delete 
+\i (00:35:31) generaledit 
+\i (00:35:32) pick grid 230.4 862.8
+\t (00:35:32) last pick:  225.0 875.0
+\i (00:35:33) delete 
+\i (00:35:33) generaledit 
+\i (00:35:35) add connect 
+\t (00:35:35) Pick first element.
+\i (00:35:37) pick grid 205.3 891.2
+\t (00:35:37) last pick:  200.0 900.0
+\t (00:35:37) Target Odd-angle Line Segment is defined on TOP.
+\t (00:35:37) last pick:  200.0 900.0
+\i (00:35:39) pick grid 196.9 809.3
+\t (00:35:39) last pick:  200.0 800.0
+\t (00:35:39) No DRC errors detected.
+\i (00:35:43) pick grid 262.2 742.4
+\t (00:35:43) last pick:  250.0 750.0
+\t (00:35:43) No DRC errors detected.
+\i (00:35:43) mouse_pos 257.1 586.9
+\i (00:35:43) mouse_pos 257.1 561.8
+\i (00:35:47) prepopup 250.4 722.4
+\i (00:35:48) done 
+\i (00:35:48) generaledit 
+\i (00:35:49) pick grid 218.7 545.1
+\t (00:35:49) last pick:  225.0 550.0
+\i (00:35:50) pick grid 237.1 571.9
+\t (00:35:50) last pick:  225.0 575.0
+\i (00:35:52) delete 
+\i (00:35:52) generaledit 
+\i (00:35:53) pick grid 196.9 523.4
+\t (00:35:53) last pick:  200.0 525.0
+\i (00:35:54) delete 
+\i (00:35:54) generaledit 
+\i (00:35:55) pick grid 203.6 545.1
+\t (00:35:55) last pick:  200.0 550.0
+\i (00:35:56) delete 
+\i (00:35:56) generaledit 
+\i (00:35:58) pick grid 222.0 550.1
+\t (00:35:58) last pick:  225.0 550.0
+\i (00:35:58) zoom in 1 
+\i (00:35:58) setwindow pcb
+\i (00:35:58) zoom in 247.1 515.0
+\i (00:35:58) trapsize 42
+\i (00:35:58) zoom in 1 
+\i (00:35:58) setwindow pcb
+\i (00:35:58) zoom in 247.1 515.0
+\i (00:35:58) trapsize 21
+\i (00:35:59) pick grid 217.0 552.7
+\t (00:35:59) last pick:  225.0 550.0
+\i (00:36:00) delete 
+\i (00:36:01) generaledit 
+\i (00:36:01) zoom out 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom out 170.2 595.3
+\i (00:36:01) trapsize 42
+\i (00:36:01) zoom out 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom out 170.2 595.4
+\i (00:36:01) trapsize 84
+\i (00:36:07) add connect 
+\t (00:36:07) Pick first element.
+\i (00:36:09) pick grid 252.1 752.6
+\t (00:36:09) last pick:  250.0 750.0
+\t (00:36:09) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:36:09) last pick:  250.0 750.0
+\i (00:36:14) pick grid 247.1 511.8
+\t (00:36:14) last pick:  250.0 500.0
+\t (00:36:14) No DRC errors detected.
+\i (00:36:15) mouse_pos 213.6 443.3
+\i (00:36:16) mouse_pos 196.9 463.3
+\i (00:36:18) pick grid 205.3 460.0
+\t (00:36:18) last pick:  200.0 450.0
+\t (00:36:18) No DRC errors detected.
+\i (00:36:18) mouse_pos 200.3 436.6
+\i (00:36:19) pick grid 207.0 411.5
+\t (00:36:19) last pick:  200.0 400.0
+\t (00:36:19) No DRC errors detected.
+\t (00:36:19) Pick first element.
+\i (00:36:20) prepopup 205.3 394.8
+\i (00:36:21) done 
+\i (00:36:21) generaledit 
+\i (00:36:22) zoom in 1 
+\i (00:36:22) setwindow pcb
+\i (00:36:22) zoom in -100.7 530.2
+\i (00:36:22) trapsize 42
+\i (00:36:23) zoom out 1 
+\i (00:36:23) setwindow pcb
+\i (00:36:23) zoom out -91.5 513.5
+\i (00:36:23) trapsize 84
+\i (00:36:24) roam start
+\i (00:36:24) roam y -32
+\i (00:36:24) roam y -16
+\i (00:36:24) roam y -32
+\i (00:36:24) roam end
+\i (00:36:40) copy 
+\t (00:36:40) Select the element(s) to copy.
+\i (00:36:43) pick grid 231.1 767.7
+\t (00:36:43) last pick:  225.0 775.0
+\i (00:36:44) pick grid 336.5 764.4
+\t (00:36:44) last pick:  325.0 775.0
+\i (00:36:46) pick grid 413.4 771.1
+\t (00:36:46) last pick:  425.0 775.0
+\i (00:36:47) pick grid 513.7 772.8
+\t (00:36:47) last pick:  525.0 775.0
+\i (00:36:50) pick grid 625.8 762.7
+\t (00:36:50) last pick:  625.0 775.0
+\i (00:36:53) pick grid 724.4 786.1
+\t (00:36:53) last pick:  725.0 775.0
+\i (00:37:36) pick grid 935.1 779.4
+\t (00:37:36) last pick:  925.0 775.0
+\i (00:37:39) pick grid 1032.1 764.4
+\t (00:37:39) last pick:  1025.0 775.0
+\i (00:37:40) pick grid 1135.8 786.1
+\t (00:37:40) last pick:  1125.0 775.0
+\i (00:37:41) pick grid 1236.1 779.4
+\t (00:37:41) last pick:  1225.0 775.0
+\i (00:37:42) pick grid 1314.7 779.4
+\t (00:37:42) last pick:  1325.0 775.0
+\i (00:37:43) pick grid 1413.4 781.1
+\t (00:37:43) last pick:  1425.0 775.0
+\i (00:37:45) pick grid 1513.7 781.1
+\t (00:37:45) last pick:  1525.0 775.0
+\i (00:37:56) prepopup 1908.4 592.2
+\i (00:37:57) done 
+\i (00:37:57) generaledit 
+\i (00:37:58) pick grid 1722.8 592.2
+\t (00:37:58) last pick:  1725.0 600.0
+\i (00:38:31) add connect 
+\t (00:38:31) Pick first element.
+\i (00:38:32) pick grid 709.4 100.5
+\t (00:38:32) last pick:  700.0 100.0
+\t (00:38:32) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:38:32) last pick:  700.0 100.0
+\i (00:38:33) pick grid 711.0 164.1
+\t (00:38:33) last pick:  700.0 175.0
+\t (00:38:33) No DRC errors detected.
+\i (00:38:37) prepopup 655.9 217.6
+\i (00:38:39) toggle 
+\i (00:38:42) pick grid 660.9 220.9
+\t (00:38:42) last pick:  650.0 225.0
+\t (00:38:42) No DRC errors detected.
+\i (00:38:45) pick grid 647.5 438.3
+\t (00:38:45) last pick:  650.0 450.0
+\t (00:38:45) No DRC errors detected.
+\i (00:38:46) pick grid 699.3 488.5
+\t (00:38:46) last pick:  700.0 500.0
+\t (00:38:46) No DRC errors detected.
+\i (00:38:47) mouse_pos 706.0 563.7
+\i (00:38:47) pick grid 706.0 590.5
+\t (00:38:47) last pick:  700.0 600.0
+\t (00:38:47) No DRC errors detected.
+\t (00:38:47) Pick first element.
+\i (00:38:48) prepopup 706.0 592.2
+\i (00:38:49) done 
+\i (00:38:49) generaledit 
+\i (00:38:53) copy 
+\t (00:38:53) Select the element(s) to copy.
+\i (00:38:54) pick grid 680.9 195.8
+\t (00:38:54) last pick:  675.0 200.0
+\i (00:38:56) pick grid 584.0 200.8
+\t (00:38:56) last pick:  575.0 200.0
+\i (00:38:57) pick grid 476.9 209.2
+\t (00:38:57) last pick:  475.0 200.0
+\i (00:38:59) pick grid 386.6 200.8
+\t (00:38:59) last pick:  375.0 200.0
+\i (00:39:00) pick grid 286.3 202.5
+\t (00:39:00) last pick:  275.0 200.0
+\i (00:39:01) pick grid 184.3 209.2
+\t (00:39:01) last pick:  175.0 200.0
+\i (00:39:07) pick grid 68.9 210.9
+\t (00:39:07) last pick:  75.0 200.0
+\i (00:39:11) pick grid 1487.0 204.2
+\t (00:39:11) last pick:  1475.0 200.0
+\i (00:39:12) pick grid 1386.6 204.2
+\t (00:39:12) last pick:  1375.0 200.0
+\i (00:39:13) pick grid 1264.6 202.5
+\t (00:39:13) last pick:  1275.0 200.0
+\i (00:39:15) pick grid 1175.9 187.5
+\t (00:39:15) last pick:  1175.0 200.0
+\i (00:39:16) pick grid 1085.6 205.9
+\t (00:39:16) last pick:  1075.0 200.0
+\i (00:39:17) pick grid 966.9 210.9
+\t (00:39:17) last pick:  975.0 200.0
+\i (00:39:19) pick grid 863.2 209.2
+\t (00:39:19) last pick:  875.0 200.0
+\i (00:39:20) prepopup 1856.6 349.7
+\i (00:39:21) done 
+\i (00:39:21) generaledit 
+\i (00:40:17) pick grid 110.7 526.9
+\t (00:40:17) last pick:  100.0 525.0
+\i (00:40:19) delete 
+\i (00:40:19) generaledit 
+\i (00:40:20) pick grid 72.2 473.4
+\t (00:40:20) last pick:  75.0 475.0
+\i (00:40:21) delete 
+\i (00:40:21) generaledit 
+\i (00:40:22) pick grid 70.6 429.9
+\t (00:40:22) last pick:  75.0 425.0
+\i (00:40:23) delete 
+\i (00:40:23) generaledit 
+\i (00:40:29) pick grid 896.7 543.7
+\t (00:40:29) last pick:  900.0 550.0
+\i (00:40:30) delete 
+\i (00:40:30) generaledit 
+\i (00:40:33) pick grid 861.6 475.1
+\t (00:40:33) last pick:  850.0 475.0
+\i (00:40:34) delete 
+\i (00:40:34) generaledit 
+\i (00:40:35) pick grid 841.5 378.1
+\t (00:40:35) last pick:  850.0 375.0
+\i (00:40:36) delete 
+\i (00:40:36) generaledit 
+\i (00:40:37) pick grid 890.0 189.1
+\t (00:40:37) last pick:  900.0 200.0
+\i (00:40:38) delete 
+\i (00:40:38) generaledit 
+\i (00:40:41) pick grid 903.4 145.7
+\t (00:40:41) last pick:  900.0 150.0
+\i (00:40:43) delete 
+\i (00:40:43) generaledit 
+\i (00:40:50) slide 
+\t (00:40:50) Pick element to slide.
+\i (00:40:51) pick grid 89.0 603.9
+\t (00:40:51) last pick:  100.0 600.0
+\t (00:40:51) Pick element to slide.
+\i (00:40:53) add connect 
+\t (00:40:53) Pick first element.
+\i (00:40:54) pick grid 100.7 612.2
+\t (00:40:54) last pick:  100.0 600.0
+\t (00:40:54) Target Vertical Line Segment is defined on TOP.
+\t (00:40:54) last pick:  100.0 600.0
+\i (00:40:55) prepopup 104.0 602.2
+\i (00:41:01) pop swap 
+\i (00:41:50) pick grid 211.0 675.8
+\t (00:41:50) last pick:  200.0 675.0
+\t (00:41:50) No DRC errors detected.
+\i (00:41:54) pick grid 868.2 672.4
+\t (00:41:54) last pick:  875.0 675.0
+\t (00:41:54) No DRC errors detected.
+\i (00:41:54) mouse_pos 895.0 634.0
+\i (00:41:55) mouse_pos 930.1 644.0
+\i (00:41:56) mouse_pos 863.2 632.3
+\i (00:41:57) mouse_pos 849.8 639.0
+\i (00:41:59) pick grid 811.4 672.4
+\t (00:41:59) last pick:  800.0 675.0
+\t (00:41:59) No DRC errors detected.
+\i (00:41:59) mouse_pos 863.2 620.6
+\i (00:42:00) pick grid 888.3 610.5
+\t (00:42:00) last pick:  900.0 600.0
+\t (00:42:00) No DRC errors detected.
+\t (00:42:00) Pick first element.
+\i (00:42:02) prepopup 826.4 513.6
+\i (00:42:03) done 
+\i (00:42:03) generaledit 
+\i (00:42:05) pick grid 53.8 294.5
+\t (00:42:05) last pick:  50.0 300.0
+\i (00:42:06) delete 
+\i (00:42:06) generaledit 
+\i (00:42:09) pick grid 78.9 192.5
+\t (00:42:09) last pick:  75.0 200.0
+\i (00:42:10) delete 
+\i (00:42:10) generaledit 
+\i (00:42:11) pick grid 100.7 160.7
+\t (00:42:11) last pick:  100.0 150.0
+\i (00:42:12) delete 
+\i (00:42:12) generaledit 
+\i (00:42:12) pick grid -222.1 583.8
+\t (00:42:12) last pick:  -225.0 575.0
+\i (00:42:15) pick grid 125.8 189.1
+\t (00:42:15) last pick:  125.0 200.0
+\i (00:42:20) add connect 
+\t (00:42:20) Pick first element.
+\i (00:42:20) pick grid 52.2 455.0
+\t (00:42:20) last pick:  50.0 450.0
+\t (00:42:21) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:42:21) last pick:  50.0 450.0
+\i (00:42:28) mouse_pos 72.2 435.0
+\i (00:42:29) pick grid 90.6 411.5
+\t (00:42:29) last pick:  100.0 400.0
+\t (00:42:29) No DRC errors detected.
+\t (00:42:29) Pick first element.
+\i (00:42:31) prepopup -176.9 476.8
+\i (00:42:32) done 
+\i (00:42:32) generaledit 
+\i (00:42:32) pick grid -250.5 562.1
+\t (00:42:32) last pick:  -250.0 550.0
+\i (00:42:37) pick grid 99.0 605.5
+\t (00:42:37) last pick:  100.0 600.0
+\i (00:42:38) prepopup 124.1 612.2
+\i (00:42:56) pick grid 94.0 603.9
+\t (00:42:56) last pick:  100.0 600.0
+\i (00:42:57) prepopup 97.3 597.2
+\i (00:43:05) pick grid -213.7 513.6
+\t (00:43:05) last pick:  -225.0 525.0
+\i (00:43:07) slide 
+\t (00:43:07) Pick element to slide.
+\i (00:43:08) pick grid 100.7 602.2
+\t (00:43:08) last pick:  100.0 600.0
+\t (00:43:08) last pick:  101.4 601.4
+\t (00:43:08) Waiting for the destination pick.
+\i (00:43:08) prepopup 100.7 602.2
+\i (00:43:13) pick grid 100.7 602.2
+\t (00:43:13) last pick:  100.0 600.0
+\t (00:43:13) No DRC errors detected.
+\t (00:43:13) Pick another element to slide.
+\i (00:43:14) pick grid 94.0 598.8
+\t (00:43:14) last pick:  100.0 600.0
+\t (00:43:14) Waiting for the destination pick.
+\i (00:43:15) pick grid 167.6 657.4
+\t (00:43:15) last pick:  175.0 650.0
+\t (00:43:15) No DRC errors detected.
+\t (00:43:15) Pick another element to slide.
+\i (00:43:16) prepopup 105.7 605.5
+\i (00:43:23) pick grid -90.0 526.9
+\t (00:43:23) last pick:  -100.0 525.0
+\t (00:43:23) Pick element to slide.
+\i (00:43:49) pick grid 1781.3 511.9
+\t (00:43:49) last pick:  1775.0 500.0
+\t (00:43:49) Pick element to slide.
+\i (00:44:43) prepopup -200.3 682.5
+\i (00:44:44) done 
+\i (00:44:44) generaledit 
+\i (00:44:44) pick grid -350.8 684.1
+\t (00:44:44) last pick:  -350.0 675.0
+\i (00:44:45) prepopup -250.5 699.2
+\i (00:44:46) pick grid -173.6 779.4
+\t (00:44:46) last pick:  -175.0 775.0
+\i (00:45:44) add connect 
+\t (00:45:44) Pick first element.
+\i (00:45:46) pick grid 97.3 598.8
+\t (00:45:46) last pick:  100.0 600.0
+\t (00:45:46) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:45:46) last pick:  100.0 600.0
+\i (00:45:46) prepopup 97.3 595.5
+\i (00:45:49) pop swap 
+\i (00:45:58) pick grid 7.0 562.1
+\t (00:45:58) last pick:  0.0 550.0
+\t (00:45:58) No DRC errors detected.
+\i (00:45:59) mouse_pos 63.9 105.5
+\i (00:46:01) mouse_pos 35.4 112.2
+\i (00:46:02) mouse_pos 58.9 112.2
+\i (00:46:03) mouse_pos 38.8 115.6
+\i (00:46:04) pick grid 8.7 139.0
+\t (00:46:04) last pick:  0.0 150.0
+\t (00:46:04) No DRC errors detected.
+\i (00:46:04) mouse_pos 57.2 112.2
+\i (00:46:04) mouse_pos 32.1 92.1
+\i (00:46:05) mouse_pos 63.9 92.1
+\i (00:46:06) mouse_pos 35.4 85.5
+\i (00:46:07) pick grid 17.1 113.9
+\t (00:46:07) last pick:  25.0 125.0
+\t (00:46:07) No DRC errors detected.
+\i (00:46:07) mouse_pos 68.9 98.8
+\i (00:46:08) pick grid 89.0 95.5
+\t (00:46:08) last pick:  100.0 100.0
+\t (00:46:08) No DRC errors detected.
+\t (00:46:08) Pick first element.
+\i (00:46:20) pick grid 906.7 587.1
+\t (00:46:20) last pick:  900.0 575.0
+\t (00:46:20) Pick first element.
+\t (00:46:20) last pick:  900.0 600.0
+\t (00:46:20) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:46:20) last pick:  900.0 600.0
+\i (00:46:22) pick grid 811.4 550.3
+\t (00:46:22) last pick:  800.0 550.0
+\t (00:46:22) No DRC errors detected.
+\i (00:46:23) mouse_pos 861.6 112.2
+\i (00:46:23) mouse_pos 838.1 115.6
+\i (00:46:24) pick grid 826.4 139.0
+\t (00:46:24) last pick:  825.0 150.0
+\t (00:46:24) No DRC errors detected.
+\i (00:46:25) mouse_pos 861.6 112.2
+\i (00:46:25) mouse_pos 836.5 103.8
+\i (00:46:26) mouse_pos 866.6 88.8
+\i (00:46:26) mouse_pos 841.5 92.1
+\i (00:46:27) mouse_pos 799.7 165.7
+\i (00:46:28) mouse_pos 789.6 137.3
+\i (00:46:28) mouse_pos 804.7 164.1
+\i (00:46:29) mouse_pos 772.9 137.3
+\i (00:46:30) mouse_pos 863.2 97.2
+\i (00:46:31) mouse_pos 851.5 127.3
+\i (00:46:31) mouse_pos 788.0 174.1
+\i (00:46:31) prepopup 796.3 180.8
+\i (00:46:34) toggle 
+\i (00:46:34) mouse_pos 789.6 159.0
+\i (00:46:35) mouse_pos 808.0 167.4
+\i (00:46:35) mouse_pos 814.7 284.5
+\i (00:46:36) mouse_pos 916.7 130.6
+\i (00:46:37) pick grid 908.4 110.5
+\t (00:46:37) last pick:  900.0 100.0
+\t (00:46:37) No DRC errors detected.
+\t (00:46:37) Pick first element.
+\i (00:46:38) prepopup 786.3 78.8
+\i (00:46:38) done 
+\i (00:46:38) generaledit 
+\i (00:47:34) pick grid tgl 107.4 839.6
+\t (00:47:34) last pick:  100.0 850.0
+\i (00:47:35) pick grid tgl 87.3 799.5
+\t (00:47:35) last pick:  75.0 800.0
+\i (00:47:36) pick grid tgl 50.5 737.6
+\t (00:47:36) last pick:  50.0 750.0
+\i (00:47:38) pick grid tgl 62.2 426.6
+\t (00:47:38) last pick:  50.0 425.0
+\i (00:47:39) delete 
+\i (00:47:39) generaledit 
+\i (00:47:47) copy 
+\t (00:47:47) Select the element(s) to copy.
+\i (00:47:49) pick grid 194.3 812.9
+\t (00:47:49) last pick:  200.0 825.0
+\i (00:47:52) pick grid 105.7 812.9
+\t (00:47:52) last pick:  100.0 825.0
+\i (00:47:53) prepopup -192.0 836.3
+\i (00:47:54) done 
+\i (00:47:54) generaledit 
+\i (00:47:54) pick grid -213.7 839.6
+\t (00:47:54) last pick:  -225.0 850.0
+\i (00:48:25) pick grid tgl 63.9 597.2
+\t (00:48:25) last pick:  75.0 600.0
+\i (00:48:25) pick grid tgl 20.4 578.8
+\t (00:48:25) last pick:  25.0 575.0
+\i (00:48:26) pick grid tgl 5.3 515.2
+\t (00:48:26) last pick:  0.0 525.0
+\i (00:48:27) pick grid tgl 18.7 125.6
+\t (00:48:27) last pick:  25.0 125.0
+\i (00:48:29) pick grid tgl 67.2 98.8
+\t (00:48:29) last pick:  75.0 100.0
+\i (00:48:31) delete 
+\i (00:48:31) generaledit 
+\i (00:48:41) pick grid tgl 139.1 632.3
+\t (00:48:41) last pick:  150.0 625.0
+\i (00:48:41) pick grid tgl 202.7 677.4
+\t (00:48:41) last pick:  200.0 675.0
+\i (00:48:43) pick grid tgl 846.5 650.7
+\t (00:48:43) last pick:  850.0 650.0
+\i (00:48:46) pick grid tgl 866.6 603.9
+\t (00:48:46) last pick:  875.0 600.0
+\i (00:48:46) pick grid tgl 831.4 580.4
+\t (00:48:46) last pick:  825.0 575.0
+\i (00:48:47) pick grid tgl 803.0 511.9
+\t (00:48:47) last pick:  800.0 500.0
+\i (00:48:48) pick grid tgl 808.0 152.3
+\t (00:48:48) last pick:  800.0 150.0
+\i (00:48:50) pick grid tgl 841.5 159.0
+\t (00:48:50) last pick:  850.0 150.0
+\i (00:48:51) pick grid tgl 873.3 132.3
+\t (00:48:51) last pick:  875.0 125.0
+\i (00:48:53) delete 
+\i (00:48:53) generaledit 
+\i (00:48:54) pick grid -210.4 774.4
+\t (00:48:54) last pick:  -200.0 775.0
+\i (00:49:26) copy 
+\t (00:49:26) Select the element(s) to copy.
+\i (00:49:32) pick grid 288.0 478.4
+\t (00:49:32) last pick:  300.0 475.0
+\i (00:49:34) pick grid 112.4 476.8
+\t (00:49:34) last pick:  100.0 475.0
+\i (00:49:35) prepopup -168.6 500.2
+\i (00:49:35) done 
+\i (00:49:35) generaledit 
+\i (00:49:43) copy 
+\t (00:49:43) Select the element(s) to copy.
+\i (00:49:45) pick grid 1087.3 473.4
+\t (00:49:45) last pick:  1075.0 475.0
+\i (00:49:47) pick grid 886.6 471.7
+\t (00:49:47) last pick:  875.0 475.0
+\i (00:49:48) prepopup 2005.4 470.1
+\i (00:49:49) done 
+\i (00:49:49) generaledit 
+\i (00:49:49) pick grid 1647.5 582.1
+\t (00:49:49) last pick:  1650.0 575.0
+\i (00:49:56) pick grid 1734.5 898.2
+\t (00:49:56) last pick:  1725.0 900.0
+\i (00:50:02) pick grid 2092.3 829.6
+\t (00:50:02) last pick:  2100.0 825.0
+\i (00:50:07) pick grid 1886.7 946.7
+\t (00:50:07) last pick:  1875.0 950.0
+\i (00:50:09) pick grid 1966.9 921.6
+\t (00:50:09) last pick:  1975.0 925.0
+\i (00:50:22) prmed 
+\i (00:50:26) setwindow form.prmedit
+\i (00:50:26) FORM prmedit cancel  
+\i (00:50:26) setwindow pcb
+\i (00:50:26) generaledit 
+\i (00:51:42) add connect 
+\t (00:51:43) Pick first element.
+\i (00:51:45) pick grid 396.7 888.1
+\t (00:51:45) last pick:  400.0 900.0
+\t (00:51:45) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:51:45) last pick:  400.0 900.0
+\i (00:51:46) prepopup 435.1 827.9
+\i (00:51:49) toggle 
+\i (00:51:55) pick grid 413.4 824.6
+\t (00:51:55) last pick:  425.0 825.0
+\t (00:51:55) No DRC errors detected.
+\i (00:52:00) pick grid 762.9 831.3
+\t (00:52:00) last pick:  775.0 825.0
+\t (00:52:00) No DRC errors detected.
+\i (00:52:02) pick grid 788.0 851.4
+\t (00:52:02) last pick:  800.0 850.0
+\t (00:52:02) No DRC errors detected.
+\i (00:52:05) pick grid 801.3 913.2
+\t (00:52:05) last pick:  800.0 925.0
+\t (00:52:05) No DRC errors detected.
+\i (00:52:12) pick grid 851.5 965.1
+\t (00:52:12) last pick:  850.0 975.0
+\t (00:52:12) No DRC errors detected.
+\i (00:52:20) pick grid 1137.5 973.4
+\t (00:52:20) last pick:  1150.0 975.0
+\t (00:52:20) No DRC errors detected.
+\i (00:52:20) mouse_pos 1175.9 935.0
+\i (00:52:21) mouse_pos 1211.1 953.4
+\i (00:52:21) mouse_pos 1202.7 935.0
+\i (00:52:22) mouse_pos 1160.9 951.7
+\i (00:52:23) mouse_pos 1167.6 921.6
+\i (00:52:24) mouse_pos 1145.8 938.3
+\i (00:52:24) pick grid 1124.1 963.4
+\t (00:52:24) last pick:  1125.0 975.0
+\t (00:52:24) No DRC errors detected.
+\i (00:52:25) mouse_pos 1167.6 931.6
+\i (00:52:26) pick grid 1192.7 911.6
+\t (00:52:26) last pick:  1200.0 900.0
+\t (00:52:26) No DRC errors detected.
+\t (00:52:26) Pick first element.
+\i (00:52:27) prepopup 1209.4 961.7
+\i (00:52:27) done 
+\i (00:52:27) generaledit 
+\i (00:52:34) add connect 
+\t (00:52:34) Pick first element.
+\i (00:52:37) pick grid 298.0 886.5
+\t (00:52:37) last pick:  300.0 875.0
+\t (00:52:37) last pick:  300.0 900.0
+\t (00:52:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:52:37) last pick:  300.0 900.0
+\i (00:52:39) pick grid 374.9 786.1
+\t (00:52:39) last pick:  375.0 775.0
+\t (00:52:39) No DRC errors detected.
+\i (00:52:41) pick grid 831.4 811.2
+\t (00:52:41) last pick:  825.0 800.0
+\t (00:52:41) No DRC errors detected.
+\i (00:52:44) pick grid 831.4 911.6
+\t (00:52:44) last pick:  825.0 900.0
+\t (00:52:44) No DRC errors detected.
+\i (00:52:45) pick grid 871.6 938.3
+\t (00:52:45) last pick:  875.0 950.0
+\t (00:52:45) No DRC errors detected.
+\i (00:52:49) pick grid 1062.2 951.7
+\t (00:52:49) last pick:  1050.0 950.0
+\t (00:52:49) No DRC errors detected.
+\i (00:52:50) mouse_pos 1063.9 936.6
+\i (00:52:51) pick grid 1090.7 911.6
+\t (00:52:51) last pick:  1100.0 900.0
+\t (00:52:51) No DRC errors detected.
+\t (00:52:51) Pick first element.
+\i (00:52:52) prepopup 1040.5 838.0
+\i (00:52:52) done 
+\i (00:52:52) generaledit 
+\i (00:52:54) pick grid 386.6 898.2
+\t (00:52:54) last pick:  375.0 900.0
+\i (00:52:55) pick grid 284.6 899.9
+\t (00:52:55) last pick:  275.0 900.0
+\i (00:52:56) pick grid 786.3 714.2
+\t (00:52:56) last pick:  775.0 725.0
+\i (00:53:00) add connect 
+\t (00:53:00) Pick first element.
+\i (00:53:03) pick grid 192.6 889.8
+\t (00:53:03) last pick:  200.0 900.0
+\t (00:53:03) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:53:03) last pick:  200.0 900.0
+\i (00:53:05) pick grid 363.2 720.9
+\t (00:53:05) last pick:  375.0 725.0
+\t (00:53:05) No DRC errors detected.
+\i (00:53:18) mouse_pos 975.3 863.1
+\i (00:53:18) mouse_pos 985.3 853.0
+\i (00:53:24) pick grid 918.4 737.6
+\t (00:53:24) last pick:  925.0 750.0
+\t (00:53:24) No DRC errors detected.
+\i (00:53:26) pick grid 931.8 836.3
+\t (00:53:26) last pick:  925.0 825.0
+\t (00:53:26) No DRC errors detected.
+\i (00:53:26) mouse_pos 958.5 863.1
+\i (00:53:27) pick grid 988.6 888.1
+\t (00:53:27) last pick:  1000.0 900.0
+\t (00:53:27) No DRC errors detected.
+\t (00:53:27) Pick first element.
+\i (00:53:28) prepopup 1003.7 898.2
+\i (00:53:29) done 
+\i (00:53:29) generaledit 
+\i (00:53:38) add connect 
+\t (00:53:38) Pick first element.
+\i (00:53:41) pick grid 699.3 582.1
+\t (00:53:41) last pick:  700.0 575.0
+\t (00:53:41) last pick:  700.0 600.0
+\t (00:53:41) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:53:41) last pick:  700.0 600.0
+\i (00:53:42) pick grid 711.0 702.5
+\t (00:53:42) last pick:  700.0 700.0
+\t (00:53:42) No DRC errors detected.
+\i (00:53:48) pick grid 1443.5 710.9
+\t (00:53:48) last pick:  1450.0 700.0
+\t (00:53:48) No DRC errors detected.
+\i (00:53:48) pick grid 1488.7 685.8
+\t (00:53:48) last pick:  1500.0 675.0
+\t (00:53:48) No DRC errors detected.
+\i (00:53:49) mouse_pos 1497.0 637.3
+\i (00:53:49) pick grid 1497.0 612.2
+\t (00:53:49) last pick:  1500.0 600.0
+\t (00:53:49) No DRC errors detected.
+\t (00:53:49) Pick first element.
+\i (00:53:55) add connect 
+\t (00:53:55) Pick first element.
+\i (00:53:59) pick grid 607.4 593.8
+\t (00:53:59) last pick:  600.0 600.0
+\t (00:53:59) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:53:59) last pick:  600.0 600.0
+\i (00:54:04) pick grid 635.8 530.3
+\t (00:54:04) last pick:  625.0 525.0
+\t (00:54:04) No DRC errors detected.
+\i (00:54:10) pick grid 761.2 525.3
+\t (00:54:10) last pick:  750.0 525.0
+\t (00:54:10) No DRC errors detected.
+\i (00:54:11) pick grid 751.2 664.1
+\t (00:54:11) last pick:  750.0 675.0
+\t (00:54:11) No DRC errors detected.
+\i (00:54:16) mouse_pos 1373.3 637.3
+\i (00:54:18) pick grid 1388.3 612.2
+\t (00:54:18) last pick:  1400.0 600.0
+\t (00:54:18) No DRC errors detected.
+\t (00:54:18) Pick first element.
+\i (00:54:19) prepopup 848.2 506.9
+\i (00:54:20) done 
+\i (00:54:20) generaledit 
+\i (00:54:21) save 
+\i (00:54:22) fillin yes 
+\i (00:54:22) generaledit 
+\i (00:54:31) add connect 
+\t (00:54:31) Pick first element.
+\i (00:54:33) pick grid 500.3 572.1
+\t (00:54:33) last pick:  500.0 575.0
+\t (00:54:33) last pick:  500.0 600.0
+\t (00:54:33) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:54:33) last pick:  500.0 600.0
+\i (00:54:38) pick grid 563.9 480.1
+\t (00:54:38) last pick:  575.0 475.0
+\t (00:54:38) No DRC errors detected.
+\i (00:54:49) pick grid 811.4 518.6
+\t (00:54:49) last pick:  800.0 525.0
+\t (00:54:49) No DRC errors detected.
+\i (00:54:52) pick grid 1261.2 526.9
+\t (00:54:52) last pick:  1250.0 525.0
+\t (00:54:52) No DRC errors detected.
+\i (00:54:52) mouse_pos 1277.9 565.4
+\i (00:54:53) pick grid 1296.3 588.8
+\t (00:54:53) last pick:  1300.0 600.0
+\t (00:54:53) No DRC errors detected.
+\t (00:54:53) Pick first element.
+\i (00:55:00) add connect 
+\t (00:55:00) Pick first element.
+\i (00:55:01) pick grid 406.7 585.5
+\t (00:55:01) last pick:  400.0 575.0
+\t (00:55:01) last pick:  400.0 600.0
+\t (00:55:01) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:55:01) last pick:  400.0 600.0
+\i (00:55:03) pick grid 423.4 513.6
+\t (00:55:03) last pick:  425.0 525.0
+\t (00:55:03) No DRC errors detected.
+\i (00:55:08) pick grid 488.6 458.4
+\t (00:55:08) last pick:  500.0 450.0
+\t (00:55:08) No DRC errors detected.
+\i (00:55:12) pick grid 757.9 451.7
+\t (00:55:12) last pick:  750.0 450.0
+\t (00:55:12) No DRC errors detected.
+\i (00:55:13) pick grid 824.8 488.5
+\t (00:55:13) last pick:  825.0 500.0
+\t (00:55:13) No DRC errors detected.
+\i (00:55:16) pick grid 1137.5 491.8
+\t (00:55:16) last pick:  1150.0 500.0
+\t (00:55:16) No DRC errors detected.
+\i (00:55:17) mouse_pos 1170.9 563.7
+\i (00:55:18) mouse_pos 1172.6 533.6
+\i (00:55:31) prepopup 1147.5 488.5
+\i (00:55:33) oops 
+\t (00:55:33) last pick:  825.0 500.0
+\i (00:55:34) mouse_pos 786.3 443.3
+\i (00:55:34) mouse_pos 794.7 455.0
+\i (00:55:34) prepopup 808.0 478.4
+\i (00:55:35) oops 
+\t (00:55:35) last pick:  750.0 450.0
+\i (00:55:37) prepopup 809.7 476.8
+\i (00:55:38) done 
+\i (00:55:38) generaledit 
+\i (00:55:39) pick grid 834.8 493.5
+\t (00:55:39) last pick:  825.0 500.0
+\i (00:55:43) pick grid 868.2 523.6
+\t (00:55:43) last pick:  875.0 525.0
+\i (00:55:45) pick grid tgl 1264.6 565.4
+\t (00:55:45) last pick:  1275.0 575.0
+\i (00:55:46) pick grid tgl 1247.8 537.0
+\t (00:55:46) last pick:  1250.0 525.0
+\i (00:55:47) pick grid tgl 1267.9 563.7
+\t (00:55:47) last pick:  1275.0 575.0
+\i (00:55:49) delete 
+\i (00:55:49) generaledit 
+\i (00:55:50) zoom in 1 
+\i (00:55:50) setwindow pcb
+\i (00:55:50) zoom in 1276.3 516.9
+\i (00:55:50) trapsize 42
+\i (00:55:53) pick grid tgl 1245.4 530.3
+\t (00:55:53) last pick:  1250.0 525.0
+\i (00:55:57) pick grid tgl 1252.9 552.0
+\t (00:55:57) last pick:  1250.0 550.0
+\i (00:55:59) delete 
+\i (00:55:59) generaledit 
+\i (00:55:59) zoom out 1 
+\i (00:55:59) setwindow pcb
+\i (00:55:59) zoom out 929.3 506.0
+\i (00:55:59) trapsize 84
+\i (00:56:04) add connect 
+\t (00:56:04) Pick first element.
+\i (00:56:05) pick grid 802.3 527.8
+\t (00:56:05) last pick:  800.0 525.0
+\t (00:56:05) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:56:05) last pick:  800.0 525.0
+\i (00:56:07) pick grid 804.0 638.2
+\t (00:56:07) last pick:  800.0 650.0
+\t (00:56:07) No DRC errors detected.
+\i (00:56:08) mouse_pos 1267.2 641.5
+\i (00:56:11) pick grid 1294.0 611.4
+\t (00:56:11) last pick:  1300.0 600.0
+\t (00:56:11) No DRC errors detected.
+\t (00:56:11) Pick first element.
+\i (00:56:11) prepopup 1304.0 598.0
+\i (00:56:12) done 
+\i (00:56:12) generaledit 
+\i (00:56:14) add connect 
+\t (00:56:14) Pick first element.
+\i (00:56:15) pick grid 747.1 449.2
+\t (00:56:15) last pick:  750.0 450.0
+\t (00:56:15) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:56:15) last pick:  750.0 450.0
+\i (00:56:21) pick grid 835.8 519.4
+\t (00:56:21) last pick:  825.0 525.0
+\t (00:56:21) No DRC errors detected.
+\i (00:56:25) pick grid 1160.2 527.8
+\t (00:56:25) last pick:  1150.0 525.0
+\t (00:56:25) No DRC errors detected.
+\i (00:56:25) mouse_pos 1173.6 562.9
+\i (00:56:26) mouse_pos 1146.8 561.2
+\i (00:56:27) pick grid 1111.7 526.1
+\t (00:56:27) last pick:  1100.0 525.0
+\t (00:56:27) No DRC errors detected.
+\i (00:56:28) mouse_pos 1191.9 561.2
+\i (00:56:28) pick grid 1210.3 591.3
+\t (00:56:28) last pick:  1200.0 600.0
+\t (00:56:28) No DRC errors detected.
+\t (00:56:28) Pick first element.
+\i (00:56:29) prepopup 1198.6 593.0
+\i (00:56:29) done 
+\i (00:56:29) generaledit 
+\i (00:56:29) pick grid 1799.0 562.9
+\t (00:56:29) last pick:  1800.0 575.0
+\i (00:56:47) add connect 
+\t (00:56:48) Pick first element.
+\i (00:56:48) pick grid 1501.3 404.1
+\t (00:56:48) last pick:  1500.0 400.0
+\t (00:56:48) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:56:48) last pick:  1500.0 400.0
+\i (00:56:55) mouse_pos 737.1 439.2
+\i (00:56:56) mouse_pos 832.4 414.1
+\i (00:57:08) pick grid 1385.9 511.1
+\t (00:57:08) last pick:  1375.0 500.0
+\t (00:57:08) No DRC errors detected.
+\i (00:57:11) pick grid 860.8 501.0
+\t (00:57:11) last pick:  850.0 500.0
+\t (00:57:11) No DRC errors detected.
+\i (00:57:15) mouse_pos 737.1 409.1
+\i (00:57:17) mouse_pos 767.2 363.9
+\i (00:57:18) mouse_pos 735.4 395.7
+\i (00:57:19) mouse_pos 757.2 387.3
+\i (00:57:20) mouse_pos 737.1 394.0
+\i (00:57:21) mouse_pos 763.8 367.3
+\i (00:57:22) mouse_pos 737.1 384.0
+\i (00:57:22) mouse_pos 765.5 368.9
+\i (00:57:23) mouse_pos 733.7 385.7
+\i (00:57:24) mouse_pos 765.5 368.9
+\i (00:57:24) mouse_pos 737.1 379.0
+\i (00:57:25) mouse_pos 763.8 368.9
+\i (00:57:25) mouse_pos 735.4 377.3
+\i (00:57:26) mouse_pos 763.8 367.3
+\i (00:57:26) mouse_pos 733.7 379.0
+\i (00:57:27) pick grid 700.3 390.7
+\t (00:57:27) last pick:  700.0 400.0
+\t (00:57:27) No DRC errors detected.
+\t (00:57:27) Pick first element.
+\i (00:57:29) prepopup 792.3 367.3
+\i (00:57:29) done 
+\i (00:57:29) generaledit 
+\i (00:57:41) slide 
+\t (00:57:41) Pick element to slide.
+\i (00:57:43) pick grid 1396.0 399.0
+\t (00:57:43) last pick:  1400.0 400.0
+\t (00:57:43) Waiting for the destination pick.
+\i (00:57:44) prepopup 1404.3 419.1
+\i (00:57:45) done 
+\i (00:57:45) generaledit 
+\i (00:57:49) slide 
+\t (00:57:49) Pick element to slide.
+\i (00:57:50) add connect 
+\t (00:57:50) Pick first element.
+\i (00:57:51) pick grid 1392.6 385.7
+\t (00:57:51) last pick:  1400.0 375.0
+\t (00:57:51) last pick:  1400.0 400.0
+\t (00:57:51) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:57:51) last pick:  1400.0 400.0
+\i (00:57:54) pick grid 1385.9 467.6
+\t (00:57:54) last pick:  1375.0 475.0
+\t (00:57:54) No DRC errors detected.
+\i (00:57:56) pick grid 837.4 465.9
+\t (00:57:56) last pick:  825.0 475.0
+\t (00:57:56) No DRC errors detected.
+\i (00:57:58) mouse_pos 621.7 363.9
+\i (00:57:58) mouse_pos 611.7 374.0
+\i (00:58:02) pick grid 686.9 332.1
+\t (00:58:02) last pick:  675.0 325.0
+\t (00:58:02) No DRC errors detected.
+\i (00:58:03) mouse_pos 621.7 363.9
+\i (00:58:05) pick grid 608.3 389.0
+\t (00:58:05) last pick:  600.0 400.0
+\t (00:58:05) No DRC errors detected.
+\t (00:58:05) Pick first element.
+\i (00:58:06) prepopup 782.2 330.5
+\i (00:58:07) done 
+\i (00:58:07) generaledit 
+\i (00:58:19) add connect 
+\t (00:58:19) Pick first element.
+\i (00:58:19) pick grid 1297.3 390.7
+\t (00:58:19) last pick:  1300.0 400.0
+\t (00:58:19) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:58:19) last pick:  1300.0 400.0
+\i (00:58:21) pick grid 1288.9 447.5
+\t (00:58:21) last pick:  1300.0 450.0
+\t (00:58:21) No DRC errors detected.
+\i (00:58:22) pick grid 859.2 442.5
+\t (00:58:22) last pick:  850.0 450.0
+\t (00:58:22) No DRC errors detected.
+\i (00:58:25) pick grid 712.0 310.4
+\t (00:58:25) last pick:  700.0 300.0
+\t (00:58:25) No DRC errors detected.
+\t (00:58:25) last pick:  703.3 300.0
+\i (00:58:26) mouse_pos 543.1 363.9
+\i (00:58:27) pick grid 503.0 389.0
+\t (00:58:27) last pick:  500.0 400.0
+\t (00:58:28) No DRC errors detected.
+\t (00:58:28) Pick first element.
+\i (00:58:28) prepopup 501.3 310.4
+\i (00:58:29) done 
+\i (00:58:29) generaledit 
+\i (00:59:11) add connect 
+\t (00:59:11) Pick first element.
+\i (00:59:13) pick grid 83.2 108.1
+\t (00:59:13) last pick:  75.0 100.0
+\t (00:59:13) last pick:  100.0 100.0
+\t (00:59:13) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:59:13) last pick:  100.0 100.0
+\i (00:59:14) pick grid 88.3 26.1
+\t (00:59:14) last pick:  100.0 25.0
+\t (00:59:14) No DRC errors detected.
+\i (00:59:17) pick grid 860.8 19.4
+\t (00:59:17) last pick:  850.0 25.0
+\t (00:59:17) No DRC errors detected.
+\i (00:59:17) mouse_pos 879.2 62.9
+\i (00:59:19) mouse_pos 859.2 54.5
+\i (00:59:19) pick grid 835.8 27.8
+\t (00:59:19) last pick:  825.0 25.0
+\t (00:59:19) No DRC errors detected.
+\i (00:59:19) mouse_pos 862.5 57.9
+\i (00:59:20) pick grid 901.0 88.0
+\t (00:59:20) last pick:  900.0 100.0
+\t (00:59:20) No DRC errors detected.
+\t (00:59:20) Pick first element.
+\i (00:59:28) add connect 
+\t (00:59:28) Pick first element.
+\i (00:59:29) pick grid 208.7 106.4
+\t (00:59:29) last pick:  200.0 100.0
+\t (00:59:29) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:59:29) last pick:  200.0 100.0
+\i (00:59:30) pick grid 240.4 49.5
+\t (00:59:30) last pick:  250.0 50.0
+\t (00:59:30) No DRC errors detected.
+\i (00:59:36) pick grid 800.6 37.8
+\t (00:59:36) last pick:  800.0 50.0
+\t (00:59:36) No DRC errors detected.
+\i (00:59:38) pick grid 822.4 86.3
+\t (00:59:38) last pick:  825.0 75.0
+\t (00:59:38) No DRC errors detected.
+\i (00:59:41) pick grid 830.7 138.2
+\t (00:59:41) last pick:  825.0 150.0
+\t (00:59:41) No DRC errors detected.
+\i (00:59:48) pick grid 1063.2 144.9
+\t (00:59:48) last pick:  1075.0 150.0
+\t (00:59:48) No DRC errors detected.
+\i (00:59:50) mouse_pos 1033.1 139.8
+\i (00:59:50) mouse_pos 1009.7 151.5
+\i (00:59:52) mouse_pos 834.1 156.6
+\i (00:59:52) mouse_pos 844.1 164.9
+\i (00:59:53) mouse_pos 1019.7 141.5
+\i (00:59:53) mouse_pos 1063.2 129.8
+\i (00:59:54) pick grid 1095.0 111.4
+\t (00:59:54) last pick:  1100.0 100.0
+\t (00:59:54) No DRC errors detected.
+\i (00:59:56) mouse_pos 1034.8 98.0
+\i (00:59:57) mouse_pos 1041.4 138.2
+\i (00:59:57) mouse_pos 1038.1 166.6
+\i (00:59:58) prepopup 1038.1 190.0
+\i (00:59:59) oops 
+\t (00:59:59) last pick:  1075.0 150.0
+\i (00:59:59) mouse_pos 1038.1 129.8
+\i (00:59:59) mouse_pos 1044.8 61.2
+\i (01:00:00) mouse_pos 1033.1 76.3
+\i (01:00:01) pick grid 991.3 89.7
+\t (01:00:01) last pick:  1000.0 100.0
+\t (01:00:01) No DRC errors detected.
+\t (01:00:01) Pick first element.
+\i (01:00:02) prepopup 1071.5 26.1
+\i (01:00:04) done 
+\i (01:00:04) generaledit 
+\i (01:00:09) add connect 
+\t (01:00:09) Pick first element.
+\i (01:00:11) pick grid 302.3 103.0
+\t (01:00:11) last pick:  300.0 100.0
+\t (01:00:11) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (01:00:11) last pick:  300.0 100.0
+\i (01:00:13) pick grid 412.7 178.3
+\t (01:00:13) last pick:  425.0 175.0
+\t (01:00:13) No DRC errors detected.
+\i (01:00:13) mouse_pos 417.7 181.6
+\i (01:00:13) mouse_pos 457.8 181.6
+\i (01:00:14) mouse_pos 1069.9 121.4
+\i (01:00:14) mouse_pos 1175.2 128.1
+\i (01:00:14) mouse_pos 1128.4 139.8
+\i (01:00:14) mouse_pos 1086.6 146.5
+\i (01:00:15) pick grid 1061.5 169.9
+\t (01:00:15) last pick:  1050.0 175.0
+\t (01:00:15) No DRC errors detected.
+\i (01:00:15) mouse_pos 1063.2 141.5
+\i (01:00:16) mouse_pos 1061.5 151.5
+\i (01:00:17) pick grid 1011.3 178.3
+\t (01:00:17) last pick:  1000.0 175.0
+\t (01:00:17) No DRC errors detected.
+\i (01:00:17) mouse_pos 1064.9 121.4
+\i (01:00:18) pick grid 1089.9 99.7
+\t (01:00:18) last pick:  1100.0 100.0
+\t (01:00:18) No DRC errors detected.
+\t (01:00:18) Pick first element.
+\i (01:00:19) prepopup 1170.2 16.1
+\i (01:00:20) done 
+\i (01:00:20) generaledit 
+\i (01:00:26) pick grid 1819.0 616.4
+\t (01:00:26) last pick:  1825.0 625.0
+\i (01:00:27) save 
+\i (01:00:38) fillin yes 
+\i (01:00:38) generaledit 
+\i (01:00:40) save_as 
+\i (01:01:25) fillin "C:\Users\user\Desktop\7.17work\demoa2.brd"
+\i (01:01:25) cd "C:\Users\user\Desktop\7.17work"
+\i (01:01:26) generaledit 
+\i (01:02:49) pick grid 1778.9 847.2
+\t (01:02:49) last pick:  1775.0 850.0
+\i (01:02:50) pick grid 1496.3 889.0
+\t (01:02:50) last pick:  1500.0 900.0
+\i (01:03:06) trapsize 96
+\i (01:04:10) status 
+\i (01:04:11) generaledit 
+\i (01:56:03) add connect 
+\t (01:56:03) Pick first element.
+\t (01:56:03) last pick:  1500.0 900.0
+\i (01:56:04) pick grid 110.0 916.0
+\t (01:56:04) last pick:  100.0 925.0
+\t (01:56:04) Cannot edit Pin "U4.8". Symbol or drawing must have UNFIXED_PINS property.
+\t (01:56:04) No DRC errors detected.
+\t (01:56:04) Pick first element.
+\i (01:56:04) generaledit 
+\i (01:56:07) pick grid 98.4 894.8
+\t (01:56:07) last pick:  100.0 900.0
+\i (01:56:09) add connect 
+\t (01:56:09) Pick first element.
+\t (01:56:09) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (01:56:09) last pick:  100.0 900.0
+\i (01:56:11) pick grid 110.0 896.8
+\t (01:56:11) last pick:  100.0 900.0
+\w (01:56:11) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (01:56:16) mouse_pos 864.1 896.8
+\i (01:56:16) mouse_pos 814.0 906.4
+\i (01:56:20) mouse_pos 868.0 894.8
+\i (01:56:20) mouse_pos 987.6 894.8
+\i (01:56:20) mouse_pos 937.4 889.0
+\i (01:56:25) pick grid 904.6 889.0
+\t (01:56:25) last pick:  900.0 900.0
+\t (01:56:25) No DRC errors detected.
+\t (01:56:25) Pick first element.
+\i (01:56:25) generaledit 
+\i (01:56:27) prepopup 684.8 1054.9
+\i (01:56:28) pick grid 626.9 1064.6
+\t (01:56:28) last pick:  625.0 1075.0
+\i (01:56:35) status 
+\i (01:56:35) generaledit 
+\i (01:56:52) drag_start grid 2025.2 1089.6
+\i (01:56:53) drag_stop -260.3 -123.5
+\i (01:56:54) pick grid 1880.6 690.4
+\t (01:56:54) last pick:  1875.0 700.0
+\i (01:56:58) pick grid 1377.2 1172.6
+\t (01:56:58) last pick:  1375.0 1175.0
+\i (02:21:50) save 
+\i (02:21:51) fillin yes 
+\i (02:21:52) generaledit 
+\i (02:21:54) new 
+\i (02:21:59) newdrawfillin "menu_cancel"
+\i (02:21:59) generaledit 
+\i (02:22:01) open 
+\i (02:22:37) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob\demob2.brd"
+\i (02:22:37) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob"
+\t (02:22:37) Opening existing design...
+\i (02:22:37) trapsize 235
+\t (02:22:37)     Journal end - Wed Jul 17 14:12:10 2019

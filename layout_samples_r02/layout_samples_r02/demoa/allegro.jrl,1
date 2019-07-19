@@ -1,0 +1,357 @@
+\t (00:01:16) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:16)     Journal start - Wed Jul 17 10:48:00 2019
+\t (00:01:16)         Host=USER-PC User=user Pid=4612 CPUs=4
+\t (00:01:16) CmdLine= allegro.exe -p .
+\t (00:01:16) 
+\d (00:01:16) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2.brd
+\i (00:01:16) generaledit 
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 304.1 655.6
+\i (00:01:19) trapsize 167
+\i (00:01:24) grid toggle 
+\i (00:01:24) generaledit 
+\i (00:01:26) roam start
+\i (00:01:26) roam y -32
+\i (00:01:27) roam y -32
+\i (00:01:27) roam y -32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 48
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y -16
+\i (00:01:27) roam y -16
+\i (00:01:27) roam end
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 1267.2 347.9
+\i (00:01:28) trapsize 84
+\i (00:01:29) roam start
+\i (00:01:29) roam x 64
+\i (00:01:29) roam y -32
+\i (00:01:29) roam x 64
+\i (00:01:29) roam y -32
+\i (00:01:29) roam x 48
+\i (00:01:29) roam y -64
+\i (00:01:29) roam x -16
+\i (00:01:30) roam end
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 1053.1 456.5
+\i (00:01:30) trapsize 167
+\i (00:01:31) roam start
+\i (00:01:31) roam end
+\i (00:01:33) pick grid 347.5 971.5
+\t (00:01:33) last pick:  300.0 1000.0
+\i (00:01:34) pick grid 320.7 1168.8
+\t (00:01:34) last pick:  300.0 1200.0
+\i (00:01:44) zoom in 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 825.7 737.4
+\i (00:01:44) trapsize 84
+\i (00:01:46) roam start
+\i (00:01:46) roam x 80
+\i (00:01:46) roam end
+\i (00:01:47) roam start
+\i (00:01:47) roam y 48
+\i (00:01:47) roam end
+\i (00:02:13) pick grid 1797.2 533.4
+\t (00:02:13) last pick:  1800.0 500.0
+\i (00:02:14) pick grid 1024.7 892.9
+\t (00:02:14) last pick:  1000.0 900.0
+\i (00:02:17) pick grid 1524.6 948.1
+\t (00:02:17) last pick:  1500.0 900.0
+\i (00:02:18) pick grid 240.4 1078.5
+\t (00:02:18) last pick:  200.0 1100.0
+\i (00:02:22) add connect 
+\w (00:02:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:22) Pick first element.
+\i (00:02:23) pick grid 111.7 892.9
+\t (00:02:23) last pick:  100.0 900.0
+\t (00:02:23) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:02:23) last pick:  100.0 900.0
+\i (00:02:24) pick grid 88.3 897.9
+\t (00:02:24) last pick:  100.0 900.0
+\w (00:02:24) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:02:26) Esc 
+\i (00:02:27) prepopup -212.7 851.1
+\i (00:02:27) done 
+\i (00:02:27) generaledit 
+\i (00:02:30) pick grid 155.1 794.3
+\t (00:02:30) last pick:  150.0 800.0
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 186.9 737.4
+\i (00:02:32) trapsize 42
+\i (00:02:33) drag_start grid 155.1 733.3
+\i (00:02:33) drag_stop 118.3 730.7
+\i (00:02:34) drag_start grid 150.9 729.1
+\i (00:02:35) drag_stop 129.2 729.1
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 186.9 724.9
+\i (00:02:35) trapsize 84
+\i (00:02:36) pick grid -264.6 870.4
+\t (00:02:36) last pick:  -275.0 875.0
+\i (00:02:43) add connect 
+\t (00:02:43) Pick first element.
+\i (00:02:44) drag_start grid -415.1 962.4
+\i (00:02:44) drag_stop -448.5 745.0
+\i (00:02:44) drag_start grid -366.6 826.9
+\i (00:02:45) drag_stop -197.7 773.4
+\i (00:02:46) drag_start grid 84.9 903.8
+\i (00:02:46) drag_stop -38.8 878.8
+\t (00:02:46) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:02:46) last pick:  100.0 900.0
+\i (00:02:48) pick grid 88.3 877.1
+\t (00:02:48) last pick:  100.0 875.0
+\t (00:02:48) No DRC errors detected.
+\i (00:02:49) mouse_pos 140.1 392.2
+\i (00:02:49) mouse_pos 145.1 420.6
+\i (00:02:52) prepopup 105.0 892.1
+\i (00:02:53) done 
+\i (00:02:53) generaledit 
+\i (00:02:59) pick grid 807.3 893.8
+\t (00:02:59) last pick:  800.0 900.0
+\i (00:03:01) delete 
+\t (00:03:01) Selected item not valid for current operation, ignored: Ratsnest "Vcc, U1.14:U2.14"
+\t (00:03:01) No valid items selected for the current operation, exiting.
+\i (00:03:01) generaledit 
+\i (00:03:02) pick grid -493.7 902.2
+\t (00:03:02) last pick:  -500.0 900.0
+\i (00:03:03) pick grid 803.9 893.8
+\t (00:03:03) last pick:  800.0 900.0
+\i (00:03:04) pick grid -358.2 902.2
+\t (00:03:04) last pick:  -350.0 900.0
+\i (00:03:05) delete 
+\i (00:03:06) pick grid 809.0 900.5
+\t (00:03:06) last pick:  800.0 900.0
+\i (00:03:07) pick grid 809.0 893.8
+\t (00:03:07) last pick:  800.0 900.0
+\i (00:03:07) pick grid 809.0 893.8
+\t (00:03:07) last pick:  800.0 900.0
+\i (00:03:07) pick grid dbl 809.0 893.8
+\t (00:03:07) last pick:  800.0 900.0
+\i (00:03:08) pick grid 809.0 893.8
+\t (00:03:08) last pick:  800.0 900.0
+\i (00:03:08) drag_start grid 807.3 902.2
+\i (00:03:08) drag_stop 800.6 848.7
+\i (00:03:09) pick grid 802.3 893.8
+\t (00:03:09) last pick:  800.0 900.0
+\i (00:03:09) pick grid 803.9 900.5
+\t (00:03:09) last pick:  800.0 900.0
+\i (00:03:09) prepopup -231.1 877.1
+\i (00:03:10) done 
+\i (00:03:10) generaledit 
+\i (00:03:11) pick grid 803.9 897.1
+\t (00:03:11) last pick:  800.0 900.0
+\i (00:03:13) delete 
+\t (00:03:13) Selected item not valid for current operation, ignored: Ratsnest "Vcc, U1.14:U2.14"
+\t (00:03:13) No valid items selected for the current operation, exiting.
+\i (00:03:13) generaledit 
+\i (00:03:14) pick grid -590.6 912.2
+\t (00:03:14) last pick:  -600.0 900.0
+\i (00:03:29) pick grid 805.6 898.8
+\t (00:03:29) last pick:  800.0 900.0
+\i (00:03:31) delete 
+\t (00:03:31) Selected item not valid for current operation, ignored: Ratsnest "Vcc, U1.14:U2.14"
+\t (00:03:31) No valid items selected for the current operation, exiting.
+\i (00:03:31) generaledit 
+\i (00:03:32) delete 
+\t (00:03:32) Selected item not valid for current operation, ignored: Ratsnest "Vcc, U1.14:U2.14"
+\t (00:03:32) No valid items selected for the current operation, exiting.
+\i (00:03:32) generaledit 
+\i (00:03:34) pick grid 809.0 898.8
+\t (00:03:34) last pick:  800.0 900.0
+\i (00:03:34) pick grid -196.0 974.1
+\t (00:03:34) last pick:  -200.0 975.0
+\i (00:03:36) undo 
+\i (00:03:36) trapsize 84
+\i (00:03:36) generaledit 
+\i (00:03:36) undo 
+\i (00:03:36) trapsize 84
+\i (00:03:36) generaledit 
+\i (00:03:37) undo 
+\i (00:03:37) trapsize 84
+\i (00:03:37) generaledit 
+\i (00:03:37) undo 
+\i (00:03:37) trapsize 84
+\i (00:03:37) generaledit 
+\i (00:03:38) undo 
+\i (00:03:38) trapsize 84
+\i (00:03:38) generaledit 
+\i (00:03:38) undo 
+\i (00:03:38) trapsize 84
+\i (00:03:38) generaledit 
+\i (00:03:39) undo 
+\i (00:03:39) trapsize 84
+\i (00:03:39) generaledit 
+\i (00:03:41) pick grid -214.4 677.2
+\t (00:03:41) last pick:  -200.0 700.0
+\i (00:03:43) pick grid -323.1 894.6
+\t (00:03:43) last pick:  -300.0 900.0
+\i (00:03:45) add connect 
+\w (00:03:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:45) Pick first element.
+\i (00:03:46) pick grid -25.5 702.3
+\t (00:03:46) last pick:  -25.0 700.0
+\t (00:03:46) last pick:  -25.0 700.0
+\i (00:03:47) pick grid -187.7 704.0
+\t (00:03:47) last pick:  -200.0 700.0
+\t (00:03:47) No DRC errors detected.
+\i (00:03:48) pick grid -37.2 528.4
+\t (00:03:48) last pick:  -25.0 525.0
+\t (00:03:48) No DRC errors detected.
+\i (00:03:49) prepopup -87.3 628.7
+\i (00:03:50) done 
+\i (00:03:50) generaledit 
+\i (00:03:50) pick grid -186.0 637.1
+\t (00:03:50) last pick:  -175.0 625.0
+\i (00:03:50) pick grid -164.2 857.8
+\t (00:03:50) last pick:  -175.0 850.0
+\i (00:03:51) pick grid -115.7 695.6
+\t (00:03:51) last pick:  -125.0 700.0
+\i (00:03:52) drag_start grid -343.2 933.0
+\i (00:03:53) drag_stop -112.4 352.8
+\i (00:03:54) delete 
+\i (00:03:54) generaledit 
+\i (00:03:54) pick grid -383.3 934.7
+\t (00:03:54) last pick:  -375.0 925.0
+\i (00:04:32) shape add rect 
+\i (00:04:32) pick grid -736.1 827.7
+\t (00:04:32) last pick:  -725.0 825.0
+\i (00:04:34) pick grid -232.8 590.2
+\t (00:04:34) last pick:  -225.0 600.0
+\i (00:04:37) prepopup -281.3 498.3
+\i (00:04:37) done 
+\i (00:04:38) generaledit 
+\i (00:04:38) pick grid -296.3 505.0
+\t (00:04:38) last pick:  -300.0 500.0
+\i (00:04:56) pick grid -473.6 714.0
+\t (00:04:56) last pick:  -475.0 725.0
+\i (00:04:59) setwindow form.vf_vis
+\i (00:04:59) FORM vf_vis colorview_list Last View 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) pick grid -170.9 852.8
+\t (00:05:17) last pick:  -175.0 850.0
+\i (00:05:24) pick grid -251.2 715.7
+\t (00:05:24) last pick:  -250.0 725.0
+\i (00:05:25) drag_start grid -227.8 598.6
+\i (00:05:25) move 
+\t (00:05:25) last pick:  -225.0 600.0
+\t (00:05:25) Element has no origin, using pick.
+\t (00:05:25) Pick new location for the element(s).
+\i (00:05:25) drag_stop grid -130.8 423.0
+\i (00:05:25) generaledit 
+\i (00:05:26) drag_start grid -283.0 540.1
+\i (00:05:26) drag_stop -508.7 558.5
+\i (00:05:27) drag_start grid -428.4 655.5
+\i (00:05:27) move 
+\t (00:05:27) last pick:  -425.0 650.0
+\t (00:05:27) Element has no origin, using pick.
+\t (00:05:27) Pick new location for the element(s).
+\i (00:05:27) drag_stop grid -645.8 842.7
+\i (00:05:27) generaledit 
+\i (00:05:28) pick grid -383.3 1035.0
+\t (00:05:28) last pick:  -375.0 1025.0
+\i (00:05:32) pick grid -782.9 806.0
+\t (00:05:32) last pick:  -775.0 800.0
+\i (00:05:32) pick grid -476.9 1061.8
+\t (00:05:32) last pick:  -475.0 1050.0
+\i (00:05:54) add line 
+\i (00:05:56) pick grid -808.0 809.3
+\t (00:05:56) last pick:  -800.0 800.0
+\i (00:05:58) pick grid -411.7 800.9
+\t (00:05:58) last pick:  -400.0 800.0
+\i (00:05:59) pick grid -398.3 662.2
+\t (00:05:59) last pick:  -400.0 650.0
+\i (00:06:01) pick grid -788.0 647.1
+\t (00:06:01) last pick:  -800.0 650.0
+\i (00:06:02) pick grid -789.6 688.9
+\t (00:06:02) last pick:  -800.0 700.0
+\i (00:06:03) pick grid -786.3 705.6
+\t (00:06:03) last pick:  -775.0 700.0
+\i (00:06:05) pick grid -762.9 739.1
+\t (00:06:05) last pick:  -775.0 750.0
+\i (00:06:05) pick grid -789.6 750.8
+\t (00:06:05) last pick:  -800.0 750.0
+\i (00:06:06) pick grid -799.7 787.6
+\t (00:06:06) last pick:  -800.0 800.0
+\i (00:06:07) prepopup -757.9 908.0
+\i (00:06:08) done 
+\i (00:06:08) generaledit 
+\i (00:06:08) pick grid -706.0 953.1
+\t (00:06:08) last pick:  -700.0 950.0
+\i (00:06:10) pick grid -373.3 625.4
+\t (00:06:10) last pick:  -375.0 625.0
+\i (00:06:11) pick grid -348.2 630.4
+\t (00:06:11) last pick:  -350.0 625.0
+\i (00:06:12) drag_start grid -368.2 735.7
+\i (00:06:12) drag_stop -364.9 682.2
+\i (00:06:12) pick grid -331.5 969.8
+\t (00:06:12) last pick:  -325.0 975.0
+\i (00:06:14) pick grid -657.5 846.1
+\t (00:06:14) last pick:  -650.0 850.0
+\i (00:06:16) delete 
+\i (00:06:16) generaledit 
+\i (00:06:16) pick grid -764.5 1045.1
+\t (00:06:16) last pick:  -775.0 1050.0
+\i (00:06:20) shape add rect 
+\i (00:06:23) pick grid -846.5 911.3
+\t (00:06:23) last pick:  -850.0 900.0
+\i (00:06:30) pick grid -341.5 550.1
+\t (00:06:30) last pick:  -350.0 550.0
+\i (00:06:30) prepopup -346.5 550.1
+\i (00:06:31) done 
+\i (00:06:31) generaledit 
+\i (00:06:32) pick grid -311.4 677.2
+\t (00:06:32) last pick:  -300.0 675.0
+\i (00:06:33) pick grid -380.0 852.8
+\t (00:06:33) last pick:  -375.0 850.0
+\i (00:06:39) pick grid 1787.2 999.9
+\t (00:06:39) last pick:  1775.0 1000.0
+\i (00:06:42) pick grid -493.7 857.8
+\t (00:06:42) last pick:  -500.0 850.0
+\i (00:07:34) undo 
+\i (00:07:34) trapsize 84
+\i (00:07:34) generaledit 
+\i (00:07:34) undo 
+\i (00:07:34) trapsize 84
+\i (00:07:34) generaledit 
+\i (00:07:34) undo 
+\i (00:07:34) trapsize 84
+\i (00:07:34) generaledit 
+\i (00:07:35) undo 
+\i (00:07:35) trapsize 84
+\i (00:07:35) generaledit 
+\i (00:07:35) undo 
+\i (00:07:35) trapsize 84
+\i (00:07:35) generaledit 
+\i (00:07:35) undo 
+\i (00:07:35) trapsize 84
+\i (00:07:35) generaledit 
+\i (00:07:37) undo 
+\i (00:07:37) trapsize 84
+\i (00:07:37) generaledit 
+\i (00:07:39) undo 
+\i (00:07:39) trapsize 84
+\i (00:07:39) generaledit 
+\i (00:08:12) roam start
+\i (00:08:12) roam x 32
+\i (00:08:12) roam x 48
+\i (00:08:12) roam x 80
+\i (00:08:12) roam x 48
+\i (00:08:12) roam y 16
+\i (00:08:13) roam x -32
+\i (00:08:13) roam y -16
+\i (00:08:13) roam end
+\i (00:08:14) pick grid 1777.2 797.6
+\t (00:08:14) last pick:  1800.0 800.0
+\i (00:09:23) pick grid 516.4 887.9
+\t (00:09:23) last pick:  500.0 900.0
+\i (00:09:30) pick grid 600.0 1043.4
+\t (00:09:30) last pick:  600.0 1000.0
+\i (00:10:58) exit 
+\e (00:10:58) Do you want to save the changes you made to demoa2.brd?
+\i (00:11:03) fillin yes 
+\t (00:11:03)     Journal end - Wed Jul 17 10:57:47 2019
