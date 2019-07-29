@@ -1,1 +1,1 @@
-AVRUSB500_new.brd
+avrusb500.brd

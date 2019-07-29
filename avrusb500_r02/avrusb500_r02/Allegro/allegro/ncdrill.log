@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : avrusb500.brd                                 )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 29 16:06:02 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/USERS/USER/DESKTOP/PCB/WORK/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/gerber' ...
+
+
+
+     'avrusb500-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3300    0.0000/  0.0000      PLATED         44
+            2.   0.7870    0.0000/  0.0000      PLATED         12
+            3.   1.0670    0.0000/  0.0000      PLATED         15
+
+     ---- Total holes:                                         71
+
+     ---- Total head travel:              3.85 feet (1.17 meters)
+

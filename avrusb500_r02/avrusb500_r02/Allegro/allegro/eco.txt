@@ -1,0 +1,39 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/avrusb500.brd     |
+|                                                    Mon Jul 29 12:55:36 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR NON-POL_CPCYL1D225LS1
+ CAPACITOR NON-POL_CPCYL1D225L_1
+ CAPACITOR NON-POL_CPCYL1D225L_2
+ CAPACITOR NON-POL_CPCYL1D225L_3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/avrusb500.brd     |
+|                                                    Mon Jul 29 12:55:36 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CPCYL1D225LS1  48.895  23.495 CAPACITOR NON-POL_CPCYL1D225LS1
+ C2                  CAPACITOR NON-POL_CPCYL1D225L_3  50.800   5.080 CAPACITOR NON-POL_CPCYL1D225L_3
+ C3                  CAPACITOR NON-POL_CPCYL1D225L_3  38.100   5.080 CAPACITOR NON-POL_CPCYL1D225L_3
+ C4                  CAPACITOR NON-POL_CPCYL1D225LS1  48.895  29.845 CAPACITOR NON-POL_CPCYL1D225LS1
+ C10                 CAPACITOR NON-POL_CPCYL1D225L_1   5.080  12.065 CAPACITOR NON-POL_CPCYL1D225L_1
+ C11                 CAPACITOR NON-POL_CPCYL1D225L_2 101.600  25.400 CAPACITOR NON-POL_CPCYL1D225L_2
+ C12                 CAPACITOR NON-POL_CPCYL1D225L_2 101.600  33.020 CAPACITOR NON-POL_CPCYL1D225L_2
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       4                                        |
+|       Components changed    :       7                                        |
+|                                                                              |
+|   Total ECO changes reported:      11                                        |
+|------------------------------------------------------------------------------|

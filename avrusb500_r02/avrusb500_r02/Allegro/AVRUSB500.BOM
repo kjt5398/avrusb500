@@ -1,0 +1,35 @@
+avrusb ISP stk500 / original by tuxgraphics.org  Revised: Monday, July 29, 2019
+0          Revision: 0
+
+
+
+
+
+
+
+Bill Of Materials           July 29,2019      16:05:48	Page1
+
+"{Value}"	"PCB Footprint"	"FPLIST"
+______________________________________________
+
+"47nF"	"CPCYL1D225LS100031"	""
+"27pF"	"CPCYL1D225LS100031"	""
+"100nF"	"CPCYL1D225LS100031"	""
+"1uF"	"CPCYL1D225LS100031"	""
+"22nF"	"CPCYL1D225LS100031"	""
+"LED"	"CYLD250LS125031"	""
+"ATmega8"	"QUAD80M32WG900"	"DIP.100/28/W.300/L1.375,JEDEC_MS-026"
+"bbpg_Bitbang"	"BLKCON100VHTM1SQSW1005"	""
+"USBA"	"USBMINIB"	"USB_MINI-B"
+"avrusb500_out"	"BLKCON100VHTM1SQSW1005"	""
+"firmware_in"	"BLKCON100VHTM1SQSW1005"	""
+"470"	"AX400X100031"	""
+"220"	"AX400X100031"	""
+"27"	"AX400X100031"	""
+"1.5k"	"AX400X100031"	""
+"2.2"	"AX400X100031"	""
+"10k"	"AX400X100031"	""
+"1k"	"AX400X100031"	""
+"FT232BM"	"QUAD80M32WG900"	"JEDEC_MS-026"
+"6Mhz"	"rad450x200ls300031"	"RAD/.450X.200/LS.300/.031"
+"3.6864Mhz"	"rad450x200ls300031"	"RAD/.450X.200/LS.300/.031"

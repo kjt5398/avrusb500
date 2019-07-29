@@ -2,14 +2,12 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : AVRUSB500_new.brd                             )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 12:25:43 2019                      )
+(    Drawing          : avrusb500.brd                                 )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 16:04:59 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
-
-1 warnings, 0 errors detected, 0 errors could be fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.
